@@ -1,0 +1,8 @@
+node_modules
+*.resource
+resources/myresource/server/main.mjs
+server.log
+cache
+resources/myresource/client/main.js
+yarn-error.log
+coverage
