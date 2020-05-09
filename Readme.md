@@ -88,7 +88,7 @@ make views
 
 1. **Dependencies for the resource**
 
-Go to the `resources/myresource/` folder and run
+Go to the `resources/brp-base/` folder and run
 
   
 
@@ -102,7 +102,7 @@ yarn install
 
 2. **Dependencies for the views**
 
-Go to the `resources/myresource/client/src/views/` folder and run
+Go to the `resources/brp-base/client/src/views/` folder and run
 
   
 
@@ -116,7 +116,7 @@ yarn install
 
 3. **Running / building**
 
-If you just want to build the files once run inside `resources/myresource/`
+If you just want to build the files once run inside `resources/brp-base/`
 
   
 
@@ -128,7 +128,7 @@ yarn build
 
   
 
-If you want the files to be watched and the server to be started after every bundling run inside `resources/myresource/`
+If you want the files to be watched and the server to be started after every bundling run inside `resources/brp-base/`
 
   
 

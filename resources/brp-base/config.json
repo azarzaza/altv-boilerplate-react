@@ -1,0 +1,10 @@
+{
+    "server_name": "Better RP Server",
+    "discord_link": "#discord link",
+
+    "db_host": "localhost",
+    "db_port": 5432,
+    "db_username": "postgres",
+    "db_password": "test",
+    "db_name": "brp"
+}

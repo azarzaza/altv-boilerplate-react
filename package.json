@@ -1,0 +1,20 @@
+{
+  "name": "brp_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azarzaza/brp-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azarzaza/brp-base.git/issues"
+  },
+  "homepage": "https://github.com/azarzaza/brp-base.git#readme"
+}

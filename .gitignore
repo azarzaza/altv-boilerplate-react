@@ -1,8 +1,13 @@
 node_modules
 *.resource
-resources/myresource/server/main.mjs
+resources/brp/server/main.mjs
 server.log
 cache
-resources/myresource/client/main.js
+resources/brp/client/main.js
 yarn-error.log
 coverage
+data
+start.sh
+libnode.so.72
+altv-server
+modules
