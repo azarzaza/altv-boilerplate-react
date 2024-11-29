@@ -2866,15 +2866,9 @@ mixin-deep@^1.2.0:
     for-in "^1.0.2"
     is-extendable "^1.0.1"
 
-mkdirp@1.x:
+mkdirp@1.x, mkdirp@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
-
-mkdirp@^0.5.1:
-  version "0.5.5"
-  resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-0.5.5.tgz#d91cefd62d1436ca0f41620e251288d420099def"
-  dependencies:
-    minimist "^1.2.5"
 
 ms@2.0.0:
   version "2.0.0"
@@ -4002,9 +3996,9 @@ typedarray-to-buffer@^3.1.5:
   dependencies:
     is-typedarray "^1.0.0"
 
-typeorm@^0.2.24:
-  version "0.2.24"
-  resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-0.2.24.tgz#cd0fbd907326873a96c98e290fca49c589f0ffa8"
+typeorm@^0.2.25:
+  version "0.2.25"
+  resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-0.2.25.tgz#1a33513b375b78cc7740d2405202208b918d7dde"
   dependencies:
     app-root-path "^3.0.0"
     buffer "^5.1.0"
@@ -4014,7 +4008,7 @@ typeorm@^0.2.24:
     dotenv "^6.2.0"
     glob "^7.1.2"
     js-yaml "^3.13.1"
-    mkdirp "^0.5.1"
+    mkdirp "^1.0.3"
     reflect-metadata "^0.1.13"
     sha.js "^2.4.11"
     tslib "^1.9.0"
